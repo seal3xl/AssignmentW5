@@ -10,3 +10,23 @@
 ***
 ### select count(*) from user;
 ![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-3.jpg)
+***
+### select * from user order by time desc;
+![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-4.jpg)
+***
+### select * from user where id between 2 and 4 order by time desc;
+![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-5.jpg)
+***
+### select * from user where username='ply';
+![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-6.jpg)
+***
+### select * from user where username='ply' and passward='ply';
+![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-7.jpg)
+***
+### update user set name='丁滿' where username='ply';
+![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-8.jpg)
+![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-8-2.jpg)
+***
+### truncate table user;
+![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-9.jpg)
+***
