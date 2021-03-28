@@ -27,7 +27,7 @@
 ![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-8.jpg)
 ![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-8-2.jpg)
 ***
-### truncate table user;
+### delete from user;
 ![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-9.jpg)
 ***
 ## 要求四：結合資料表 SQL JOIN 的操作 (Optional)
