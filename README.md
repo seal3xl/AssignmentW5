@@ -30,3 +30,11 @@
 ### truncate table user;
 ![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-9.jpg)
 ***
+## 要求四：結合資料表 SQL JOIN 的操作 (Optional)
+
+### select user.name,message.content from user right join message on user.id=message.user_id;
+![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/4-1.jpg)
+***
+### select user.name,message.content from user right join message on user.id=message.user_id where user.username='ply';
+![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/4-2.jpg)
+***
