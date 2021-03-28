@@ -7,3 +7,6 @@
 ***
 ### select * from user;
 ![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-2.jpg)
+***
+### select count(*) from user;
+![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-3.jpg)
