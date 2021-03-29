@@ -14,7 +14,9 @@
 ### select * from user order by time desc;
 ![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-4.jpg)
 ***
-### ~~select * from <font color=#ff0000>user</font> where id between 2 and 4 order by time desc;~~
+<font color=#ff0000>
+### ~~select * from user where id between 2 and 4 order by time desc;~~
+</font>
 ### select * from user order by time desc limit 1,3;
 ![image](https://raw.githubusercontent.com/seal3xl/AssignmentW5/main/img/3-5-2.jpg)
 ***
